@@ -11,7 +11,7 @@ Meu nome é Tayná Oliveira
 tyana.oliveira.lara@escola.pr.gov.br
 
 @ltay.oliveira
-(![Uploading image.png…]()
-)
+
+([https://tenor.com/pt-BR/view/sideeye-gif-3470529490399229032])
 
 
