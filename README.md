@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🖤
 
-meu nome é Tayná Oliveira
+Meu nome é Tayná Oliveira
 
 - Estou estudando [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -10,9 +10,9 @@ meu nome é Tayná Oliveira
 
 tyana.oliveira.lara@escola.pr.gov.br
 
-@eu.tayy3
+@ltay.oliveira
 
-![](![image](https://github.com/catthway/helo/assets/143192081/a1ace414-3e7c-4acd-abae-2dd4df0848a7)
+(![image](https://github.com/catthway/helo/assets/143192081/a1ace414-3e7c-4acd-abae-2dd4df0848a7)
 
 )
 
